@@ -30,8 +30,8 @@ Para os participantes mostrem que dominam as aréas mais basicas solicitadas nos
 As equipes devem submeter os arquivos do Jupyter Notebook (ou caso usem serviços no colab ou jupyterHub do servidor GERCOM) produzidos em cada solução, que devem conter um storytelling dos dados cobrindo a descrição do que foi realizado pela equipe, os insights obtidos, o pré-processamento, os modelos de Aprendizado de Máquina desenvolvidos, a avaliação de desempenho dos modelos, a escolha do modelo de Aprendizado de Máquina, entre outros tópicos que as equipes julguem pertinente.
 
 Atente-se ao roteiro dos desafios, aos critérios de avaliação e a entrega diferenciada de alguns desafios. Garanta que os avaliadores da comissão organizadora da Hackathon GERCOM tenham acesso a todos os arquivos da sua submissão. As equipes devem se assegurar de fornecer todos os demais conjuntos de dados que utilizaram. Dê preferência para baixar os dados necessários:
-```
- ✅ Recomendável
+```python
+# ✅ Recomendável
 # > clonar um repositório do GitHub. Exemplo:
 !git clone https://github.com/chsantos234/5G_Huawei_hackathon.git
 ```
