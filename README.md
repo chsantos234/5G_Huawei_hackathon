@@ -35,3 +35,37 @@ Atente-se ao roteiro dos desafios, aos critérios de avaliação e a entrega dif
 # > clonar um repositório do GitHub. Exemplo:
 !git clone https://github.com/chsantos234/5G_Huawei_hackathon.git
 ```
+
+# 3. Desafios a serem avaliados:
+
+A edição mais recente do Relatório de Mobilidade Ericsson apontou que, no ano de 2022, 71% do tráfego da rede móvel mundial foi constituído por transmissão de vídeo e até 2028 esta demanda deverá aumentar em 9%. Nesse cenário, o gerenciamento e análise de redes móveis se mostram elementos fundamentais para promover uma melhor experiência de uso desse tipo de serviço, fator este que tende a proporcionar novas oportunidades de negócio e pesquisa à medida em que o uso da rede 5G se expande.
+
+
+## 1. Visualização usando PathsViewer
+A ferramenta: PathsViewer é uma interface para visualização de dados espaço-temporais em tempo real ou pós-eventos. Essa ferramenta busca suprir a demanda por ferramentas de visualização de trajetórias de objetos, em vista do grande interesse em pesquisas nesse tipo de dado.
+
+É possível utilizar conjuntos de dados variados, com estruturas diversas, tais como traces de 5G georreferenciados e trajetórias de veículos.
+
+O desafio: Esse desafio tem como objetivo usar a ferramenta PathsViewer para apresentar os conjuntos de dados fornecidos (não é necessário utilizar todos eles).
+
+As equipes devem explorar as funcionalidades do PathsViewer, como ajuste de escala, visualização em mapa 2D ou satélite, envio de múltiplos conjuntos de dados, entre outras. Com isso, é possível gerar visualizações claras e informativas que ajudem os usuários a visualizar as informações contidas nos dados de trajetórias de objetos.
+
+## 2. Predição de qualidade de sinal
+
+As equipes poderão utilizar modelos estatísticos e/ou técnicas de aprendizado de máquina, como modelos de predição mono e multivariados, para inferir os valores de um indicador de qualidade de sinal de escolha, tal como QUAL, CQI e SNNR. O objetivo deste desafio é inferir a qualidade do sinal com base nos atributos fornecidos na base g-nettrack. As equipes podem combinar os dados fornecidos com informações presentes em outros conjuntos com o intuito de complementar e enriquecer os dados disponíveis.
+
+## 3. Predição do tipo de mobilidade
+Esse desafio consiste em utilizar métodos não-supervisionados de aprendizado de máquina para prever o tipo de mobilidade (pedestre, veículo, metrô/trem) de um dispositivo móvel com base nos dados de localização não rotulados fornecidos pelo conjunto de dados. Essa tarefa pode ser abordada de diversas formas, como, por exemplo, na forma de um problema de classificação baseada em clusterização (classificação não-supervisionada), onde o modelo de aprendizado de máquina deve classificar cada registro do conjunto de dados em uma das classes de mobilidade possíveis.
+
+# Critérios de Avaliação:
+-Os participantes devem resolver o maior número possível dos desafios fornecidos;
+-Pré-processamento dos dados;
+-Representação dos dados e estratégia de composição de atributos;
+-Estratégia de seleção do modelo escolhido;
+-Estratégia de validação;
+-Qualidade do modelo em relação às métricas de qualidade (tal como acurácia, precisão, revocação e F1-score);
+-Interpretabilidade do modelo sugerido;
+-Storytelling dos dados, incluindo conclusões;
+-Potencial impacto e viabilidade da solução apresentada; e
+-Criatividade da solução e apresentação.
+
