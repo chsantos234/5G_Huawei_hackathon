@@ -58,14 +58,14 @@ As equipes poderão utilizar modelos estatísticos e/ou técnicas de aprendizado
 Esse desafio consiste em utilizar métodos não-supervisionados de aprendizado de máquina para prever o tipo de mobilidade (pedestre, veículo, metrô/trem) de um dispositivo móvel com base nos dados de localização não rotulados fornecidos pelo conjunto de dados. Essa tarefa pode ser abordada de diversas formas, como, por exemplo, na forma de um problema de classificação baseada em clusterização (classificação não-supervisionada), onde o modelo de aprendizado de máquina deve classificar cada registro do conjunto de dados em uma das classes de mobilidade possíveis.
 
 # Critérios de Avaliação:
--Os participantes devem resolver o maior número possível dos desafios fornecidos;
--Pré-processamento dos dados;
--Representação dos dados e estratégia de composição de atributos;
--Estratégia de seleção do modelo escolhido;
--Estratégia de validação;
--Qualidade do modelo em relação às métricas de qualidade (tal como acurácia, precisão, revocação e F1-score);
--Interpretabilidade do modelo sugerido;
--Storytelling dos dados, incluindo conclusões;
--Potencial impacto e viabilidade da solução apresentada; e
--Criatividade da solução e apresentação.
+* Os participantes devem resolver o maior número possível dos desafios fornecidos;
+* Pré-processamento dos dados;
+* Representação dos dados e estratégia de composição de atributos;
+* Estratégia de seleção do modelo escolhido;
+* Estratégia de validação;
+* Qualidade do modelo em relação às métricas de qualidade (tal como acurácia, precisão, revocação e F1-score);
+* Interpretabilidade do modelo sugerido;
+* Storytelling dos dados, incluindo conclusões;
+* Potencial impacto e viabilidade da solução apresentada; e
+* Criatividade da solução e apresentação.
 
