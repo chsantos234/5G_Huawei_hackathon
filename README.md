@@ -2,7 +2,7 @@
 
 O avanço do 5G é uma das transformações mais significativas no mundo da tecnologia nos últimos anos, e o Brasil não está ficando para trás nessa corrida. Com uma latência e velocidade de transmissão de dados sem precedentes, o 5G promete revolucionar a conectividade e comunicação humana, além de possibilitar infinitas novas oportunidades para a inovação e empreendedorismo em diversas áreas como a saúde, a agricultura, a indústria e muito mais.
 
-Nessa apresentação seram definidos duas etapas para nossa formação do Hakaton. Primeiramente seram apresentados alguns dados de redes de 5G que estão disponibilizados gratuiatamente em repositorios do Github facilmente clonaveis para uso de simulações projeções e sistemas de previsão sobre os usuarios.
+Nessa apresentação serão definidos duas etapas para nossa formação do Hakaton. Primeiramente seram apresentados alguns dados de redes de 5G que estão disponibilizados gratuiatamente em repositorios do Github facilmente clonaveis para uso de simulações projeções e sistemas de previsão sobre os usuarios.
 
 As equipes poderão desenvolver seus projetos em diversas linhas, como, por exemplo, análise exploratória de dados, desenvolvimento de insights inovadores usando 5G e os conjuntos de dados disponibilizados, modelos de Aprendizado de Máquina para predição, classificação, agrupamento, suporte à decisão, desenvolvimento de modelos de desempenho de aplicações no contexto de 5G e muito mais.
 
