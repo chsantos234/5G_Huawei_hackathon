@@ -2,19 +2,19 @@
 
 O avanço do 5G é uma das transformações mais significativas no mundo da tecnologia nos últimos anos, e o Brasil não está ficando para trás nessa corrida. Com uma latência e velocidade de transmissão de dados sem precedentes, o 5G promete revolucionar a conectividade e comunicação humana, além de possibilitar infinitas novas oportunidades para a inovação e empreendedorismo em diversas áreas como a saúde, a agricultura, a indústria e muito mais.
 
-Nessa apresentação serão definidos duas etapas para nossa formação do Hakaton. Primeiramente seram apresentados alguns dados de redes de 5G que estão disponibilizados gratuiatamente em repositorios do Github facilmente clonaveis para uso de simulações projeções e sistemas de previsão sobre os usuarios.
+Nesta apresentação serão definidas duas etapas para nossa formação do hackathon. Primeiramente, serão apresentados alguns dados de redes de 5G que estão disponibilizados gratuitamente em repositórios do Github facilmente clonados para uso de simulações, projeções e sistemas de previsão sobre os usuários.
 
 As equipes poderão desenvolver seus projetos em diversas linhas, como, por exemplo, análise exploratória de dados, desenvolvimento de insights inovadores usando 5G e os conjuntos de dados disponibilizados, modelos de Aprendizado de Máquina para predição, classificação, agrupamento, suporte à decisão, desenvolvimento de modelos de desempenho de aplicações no contexto de 5G e muito mais.
 
+
 ## Requisitos para participar
 
-Para desenvolver soluções para a Hackathon, é conhecimento para Aprendizado de Máquina no Jupyter Notebook.
+Para desenvolver soluções para a Hackathon, é requisito conhecimento para Aprendizado de Máquina no Jupyter Notebook.
 
 Além disso, é desejável que os participantes tenham conhecimentos (basico) nos seguintes assuntos:
 
 * Análise de dados;
 * Métodos de Aprendizado de Máquina, tais como regressão, clusterização, entre outros; 
-* Time-Series
 * Programação em Python; e
 * Jupyter Notebook.
 
