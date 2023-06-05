@@ -9,9 +9,9 @@ As equipes poderão desenvolver seus projetos em diversas linhas, como, por exem
 
 ## Requisitos para participar
 
-Para desenvolver soluções para a Hackathon, é requisito conhecimento para Aprendizado de Máquina no Jupyter Notebook.
+Para desenvolver soluções para a Hackathon, é necessário conhecimento para Aprendizado de Máquina no Jupyter Notebook.
 
-Além disso, é desejável que os participantes tenham conhecimentos (basico) nos seguintes assuntos:
+Além disso, é desejável que os participantes tenham conhecimentos (básico) nos seguintes assuntos:
 
 * Análise de dados;
 * Métodos de Aprendizado de Máquina, tais como regressão, clusterização, entre outros; 
@@ -19,7 +19,7 @@ Além disso, é desejável que os participantes tenham conhecimentos (basico) no
 * Jupyter Notebook.
 
 ## 1. Etapa 1
-Para os participantes mostrem que dominam as aréas mais basicas solicitadas nos iremos conceder acesso de um arquivo jupyter com instruções e explicações em cima dos dados extraidos disponiveis aqui mesmo neste GitHub para isso os alunos devem:
+Para os participantes mostrem que dominam as áreas mais básicas solicitadas nos iremos conceder acesso de um arquivo jupyter com instruções e explicações em cima dos dados extraídos disponíveis aqui mesmo neste GitHub para isso os alunos devem:
 1. Clonar este git;
 2. abrir o jupyter;
 3. extrair os dados já separados;
